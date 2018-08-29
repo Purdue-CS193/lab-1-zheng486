@@ -17,6 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - It's my first class in CS193 and I am really happy that instructors awnsered my questions patiently.
+Thank you for your patience.
 
 1. Numbered
 2. List
